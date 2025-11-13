@@ -14,9 +14,9 @@ I'm a passionate **DevOps Engineer** dedicated to building, automating, and opti
 
 ## 🏗️ Featured Projects
 
-- **[Coreoptimized Modpack](https://github.com/asabhi6776/coreoptimized):** A performance-focused Minecraft modpack for optimized gameplay.
-- **[Sniperxjohn](https://github.com/asabhi6776/sniperxjohn):** A sleek and sharp VSCode color theme for developers who love clarity.
-- **[xdesktop](https://github.com/asabhi6776/xdesktop):** An experimental project to bring desktop-like experiences to new platforms.
+- **[Coreoptimized Modpack](https://github.com/abhixops/coreoptimized):** A performance-focused Minecraft modpack for optimized gameplay.
+- **[Sniperxjohn](https://github.com/abhixops/sniperxjohn):** A sleek and sharp VSCode color theme for developers who love clarity.
+- **[xdesktop](https://github.com/abhixops/xdesktop):** An experimental project to bring desktop-like experiences to new platforms.
 
 ---
 
@@ -47,8 +47,8 @@ I'm a passionate **DevOps Engineer** dedicated to building, automating, and opti
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=asabhi6776&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=asabhi6776&theme=codeSTACKr&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=abhixops&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=abhixops&theme=codeSTACKr&hide_border=true)
 
 ---
 
