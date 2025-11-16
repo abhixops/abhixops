@@ -30,10 +30,10 @@ I'm a passionate **DevOps Engineer** dedicated to building, automating, and opti
 
 ### :book: Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [[Solved] You have reached your pull rate limit.](https://asabhi6776.hashnode.dev/solved-you-have-reached-your-pull-rate-limit)
-- [Deploying an EKS Cluster with Terraform: Best Practices](https://asabhi6776.hashnode.dev/deploying-an-eks-cluster-with-terraform-best-practices)
-- [Chaos Engineering: Building Resilient Systems Through Deliberate Disruption](https://asabhi6776.hashnode.dev/chaos-engineering-building-resilient-systems-through-deliberate-disruption)
-- [Istio: Understanding and Installation](https://asabhi6776.hashnode.dev/istio-understanding-and-installation)
+- [[Solved] You have reached your pull rate limit.](https://abhixops.hashnode.dev/solved-you-have-reached-your-pull-rate-limit)
+- [Deploying an EKS Cluster with Terraform: Best Practices](https://abhixops.hashnode.dev/deploying-an-eks-cluster-with-terraform-best-practices)
+- [Chaos Engineering: Building Resilient Systems Through Deliberate Disruption](https://abhixops.hashnode.dev/chaos-engineering-building-resilient-systems-through-deliberate-disruption)
+- [Istio: Understanding and Installation](https://abhixops.hashnode.dev/istio-understanding-and-installation)
 <!-- BLOG-POST-LIST:END -->
 
 ---
@@ -41,7 +41,7 @@ I'm a passionate **DevOps Engineer** dedicated to building, automating, and opti
 ## 🌐 Connect With Me
 
 - 🖥️ **Portfolio:** [iamabhishek.co](https://iamabhishek.co)
-- 📝 **Blogs:** [asabhi6776.hashnode.dev](https://asabhi6776.hashnode.dev)
+- 📝 **Blogs:** [abhixops.hashnode.dev](https://abhixops.hashnode.dev)
 
 ---
 
