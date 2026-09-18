@@ -40,14 +40,14 @@ I'm a passionate **DevOps Engineer** dedicated to building, automating, and opti
 
 ## 🌐 Connect With Me
 
-- 🖥️ **Portfolio:** [iamabhishek.co](https://iamabhishek.co)
+<!-- - 🖥️ **Portfolio:** [iamabhishek.co](https://iamabhishek.co) -->
 - 📝 **Blogs:** [abhixops.hashnode.dev](https://abhixops.hashnode.dev)
 
 ---
 
 ## 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=abhixops&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-stats-extended.vercel.app/api?username=abhixops&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhixops&theme=codeSTACKr&hide_border=true)
 
 ---
