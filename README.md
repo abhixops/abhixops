@@ -47,7 +47,7 @@ I'm a passionate **DevOps Engineer** dedicated to building, automating, and opti
 
 ## 📈 GitHub Stats
 
-![](https://github-stats-extended.vercel.app/api?username=abhixops&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=false)
+![](https://github-stats-extended.vercel.app/api?username=abhixops&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=abhixops&theme=codeSTACKr&hide_border=true)
 
 ---
