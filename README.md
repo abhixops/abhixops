@@ -1,34 +1,11 @@
-# Hi there, I'm Abhishek! 👋
+## Hi, I'm Abhishek 👋
 
-I'm a passionate **DevOps Engineer** dedicated to building, automating, and optimizing infrastructure for scalable and reliable applications.
+**DevOps Engineer** building and automating scalable, reliable cloud infrastructure.
 
----
+🛠️ Kubernetes · Docker · Terraform · Flux · AWS · Azure · Linux  
+📝 Writing at [abhixops.hashnode.dev](https://abhixops.hashnode.dev)
 
-## 🚀 About Me
-
-- 🔧 **Profession:** DevOps Engineer  
-- 🛠️ **Skills:** Kubernetes • Docker • Jenkins • AWS • Git • Linux • and more!
-- 🎯 **Focus:** Automation, CI/CD, Cloud Infrastructure, and making things run smoother every day  
-
----
-
-## 🏗️ Featured Projects
-
-- **[Coreoptimized Modpack](https://github.com/abhixops/coreoptimized):** A performance-focused Minecraft modpack for optimized gameplay.
-- **[Sniperxjohn](https://github.com/abhixops/sniperxjohn):** A sleek and sharp VSCode color theme for developers who love clarity.
-- **[xdesktop](https://github.com/abhixops/xdesktop):** An experimental project to bring desktop-like experiences to new platforms.
-
----
-
-## ✨ Fun Facts
-
-- 😺 Love watching cat videos (who doesn't?)
-- 📖 Enjoy reading thrillers and discovering new stories
-- 🤖 Always looking to automate and optimize daily tasks
-
----
-
-### :book: Blog posts
+### 📝 Latest Posts
 <!-- BLOG-POST-LIST:START -->
 - [[Solved] You have reached your pull rate limit.](https://abhixops.hashnode.dev/solved-you-have-reached-your-pull-rate-limit)
 - [Deploying an EKS Cluster with Terraform: Best Practices](https://abhixops.hashnode.dev/deploying-an-eks-cluster-with-terraform-best-practices)
@@ -36,26 +13,12 @@ I'm a passionate **DevOps Engineer** dedicated to building, automating, and opti
 - [Istio: Understanding and Installation](https://abhixops.hashnode.dev/istio-understanding-and-installation)
 <!-- BLOG-POST-LIST:END -->
 
----
+### 🏗️ Side Projects
+[coreoptimized](https://github.com/abhixops/coreoptimized) – performance-focused Minecraft modpack ·
+[Softnight](https://github.com/abhixops/softnight) – VSCode color theme ·
+[xdesktop](https://github.com/abhixops/xdesktop) – experimental desktop experience
 
-## 🌐 Connect With Me
-
-<!-- - 🖥️ **Portfolio:** [iamabhishek.co](https://iamabhishek.co) -->
-- 📝 **Blogs:** [abhixops.hashnode.dev](https://abhixops.hashnode.dev)
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-stats-extended.vercel.app/api?username=abhixops&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=abhixops&theme=codeSTACKr&hide_border=true)
-
----
-
-## 📫 Let's Collaborate!
-
-I'm always open to connect with fellow engineers, collaborate on exciting projects, or just chat about automation, DevOps, and tech trends. Drop a star ⭐ on any repo you like!
-
----
-
-_“Automate the boring stuff, innovate the exciting stuff!”_
+<p>
+  <img height="150" alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=abhixops&rank_icon=github&show_icons=true&include_all_commits=true&theme=codeSTACKr&hide_border=true" />
+  <img height="150" alt="GitHub streak" src="https://streak-stats.demolab.com/?user=abhixops&theme=codeSTACKr&hide_border=true" />
+</p>
